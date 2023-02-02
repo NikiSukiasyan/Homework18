@@ -1,0 +1,14 @@
+h2 {
+  font-size: 27px;
+  color: #000;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 19px;
+  color: rgb(0, 94, 128);
+  padding: 10px;
+  background-color: lightgrey;
+  border-radius: 10px;
+}
